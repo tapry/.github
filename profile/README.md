@@ -20,7 +20,7 @@ Open source, on your own server or hosted by us.
 <br>
 
 <a href="https://tapry.app">
-  <img alt="A Tapry session being recorded: three people, each with their own upload status" src="https://raw.githubusercontent.com/tapry/.github/main/profile/assets/hero.png" width="880">
+  <img alt="A Tapry session being recorded: three people, each with their own upload status" src="https://raw.githubusercontent.com/tapry/.github/main/profile/assets/hero-podcast.png" width="880">
 </a>
 
 </div>
